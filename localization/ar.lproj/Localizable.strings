@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  localization
+
+  Created by Njoud Alrshidi on 13/06/1443 AH.
+  
+*/
+
+"Hello" = "مرحبا";
+"UserName" = "اسم المستخدم";
+"SignUp" = "تسجيل جديد";
+"Pass" = "كلمة المرور " ;
+"Login" = "تسجيل الدخول" ;
+"Titel" = "تنبيه" ;
+"Message" = "تسجيل الدخول بنجاح" ;
+"Ok" = "تم" ;
